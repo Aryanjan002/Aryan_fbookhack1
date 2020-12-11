@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Aryan Hacker
+#The Credit For This Code Goes To Aryan Hack
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
